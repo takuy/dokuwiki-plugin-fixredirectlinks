@@ -1,0 +1,7 @@
+base   fixredirectlinks
+author Sam Yelman
+email  sam@takodev.com
+date   2024-03-02
+name   Fix Redirect Links
+desc   This plugin updates the class on links that are directed through the Redirect plugin. 
+url    http://www.dokuwiki.org/plugin:fixredirectlinks
